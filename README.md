@@ -1,2 +1,19 @@
-# CasePokemonGo
-Projeto realizado no curso Full Stack da Labenu
+# Case Back end 
+
+**Sobre**
+
+
+**Recursos utilizados**
+- Nodejs;
+- MySQL;
+- express;
+- typescript;
+- uuid;
+- knex;
+
+
+**O que contém:**
+- Endpoint 
+
+**O que funciona:**
+- Endpoint 
